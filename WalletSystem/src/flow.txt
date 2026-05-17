@@ -1,0 +1,8 @@
+1. Validate wallets
+2. Check balance
+3. Create PENDING transaction
+4. Debit sender
+5. Credit receiver
+6. Create ledger entries
+7. Mark SUCCESS
+8. Send notification
