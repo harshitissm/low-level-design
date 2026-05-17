@@ -1,0 +1,50 @@
+# Compiled Java output
+*.class
+*.jar
+*.war
+*.ear
+out/
+target/
+build/
+bin/
+
+# Gradle
+.gradle/
+
+# Maven
+.mvn/timing.properties
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+.venv/
+venv/
+env/
+ENV/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs and runtime files
+*.log
+*.pid
+*.seed
+
+# Environment and local config
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
