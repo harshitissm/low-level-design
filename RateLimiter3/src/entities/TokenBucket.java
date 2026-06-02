@@ -1,4 +1,4 @@
-package ratelimitentity;
+package entities;
 
 import java.util.concurrent.locks.ReentrantLock;
 

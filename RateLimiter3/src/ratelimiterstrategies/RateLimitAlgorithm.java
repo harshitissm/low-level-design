@@ -2,6 +2,6 @@ package ratelimiterstrategies;
 
 import ratelimitkey.RateLimitKey;
 
-public interface RateLimiter {
+public interface RateLimitAlgorithm {
     boolean allowRequest(RateLimitKey key);
 }

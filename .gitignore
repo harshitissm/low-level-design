@@ -27,6 +27,8 @@ ENV/
 # IntelliJ IDEA
 .idea/
 *.iml
+*.codex/
+*.agents/
 
 # Logs and runtime files
 *.log
